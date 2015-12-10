@@ -1,4 +1,4 @@
-package com.payanywhere.ormlite;
+package com.grencoder.ormlite;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,6 +6,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
+import com.greencoder.ormlite.R;
 import com.j256.ormlite.android.apptools.OpenHelperManager;
 import com.j256.ormlite.dao.Dao;
 

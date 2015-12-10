@@ -1,4 +1,4 @@
-package com.payanywhere.ormlite;
+package com.greencoder.ormlite;
 
 import org.junit.Test;
 
